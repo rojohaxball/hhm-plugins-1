@@ -1,19 +1,15 @@
 {
-  "name": "rubebeben/hhm-plugins-rub",
-  "description": "ruben's HHM plugins.",
-  "author": "ruben",
+  "name": "rojohaxball/hhm-plugins",
+  "description": "rojo's HHM plugins.",
+  "author": "rojo",
   "config": {
     "path": "src"
   },
   "plugins": [
-    "rub/ball-touch",
-    "rub/auto-admin",
-    "rub/referee",
-    "rub/size",
-    "rub/password",
-    "rub/doc-divs",
-    "rub/persistence-files",
-    "rub/match-info",
-    "rub/test",
+    "rojo/ball-touch",
+    "rojo/record",
+    "rojo/referee",
+    "rojo/password",
+    "rojo/doc-divs",
   ]
 }
